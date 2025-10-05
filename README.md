@@ -18,13 +18,13 @@
 
 ### 🤖 Artificial Intelligence
 
-### ChatGPT [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-### Claude | [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) 
-### GitHub Copilot | [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
-### Google Assistant | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)
+### ChatGPT [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) 
+### Claude [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) 
+### GitHub Copilot [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+### Google Assistant [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)
 ### Hugging Face [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) 
 ### Google Gemini [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) 
-## Perplexity | [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+### Perplexity [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 
 <!---
 m1nish1208/m1nish1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
