@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manish 👋</h1>
-<h3 align="center">Senior Architect (Certified L2) @ Capgemini · Enterprise Architecture · Cloud & Platform Engineering · SRE · Agentic AI</h3>
+<h3 align="center">Portfolio Architect (Certified L2) @ Capgemini · Enterprise Architecture · Cloud & Platform Engineering · SRE · Agentic AI</h3>
 
 <p align="center">
   <a href="https://twitter.com/m1nish"><img src="https://img.shields.io/badge/Twitter-@m1nish-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
